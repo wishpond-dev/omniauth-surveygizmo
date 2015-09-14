@@ -1,4 +1,5 @@
 require "omniauth/surveygizmo/version"
+require "omniauth/strategies/oauth"
 
 module OmniAuth
   module Strategies
