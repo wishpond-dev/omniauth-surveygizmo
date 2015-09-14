@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-To be used with the OmniAuth gem's Builder class for strategies in a rails application. You will need to pass in an App key and secret to the building for the strategy to be valid.
+To be used with the OmniAuth gem's Builder class for strategies in a rails application. You will need to pass in an App key and secret to the builder for the strategy to be valid.
 
 ## Development
 
