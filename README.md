@@ -1,8 +1,6 @@
 # Omniauth::Surveygizmo
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/omniauth/surveygizmo`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+OmniAuth strategy for Surveygizmo, OAuth 1.0
 
 ## Installation
 
@@ -22,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+To be used with the OmniAuth gem's Builder class for strategies in a rails application. You will need to pass in an App key and secret to the building for the strategy to be valid.
 
 ## Development
 
